@@ -1,0 +1,9 @@
+tertilesc1hw,8
+a_yellow,page-90124-ground-two-volcanic.png,6.4
+a_red,page-101-cliff-rockies.png,6.4
+a_concrete,page-92-medium-tiles-urban.png,6.4
+a_cliff,page-90122-cliff-volcanic.png,4.8
+a_water,page-90125-bottom-volcanic.png,9.6
+a_mud,page-89-gray-rubble-urban.png,6.4
+a_green,page-96-burned-ground-urban.png,6.4
+a_sand,page-90123-ground-one-volcanic.png,9.6
