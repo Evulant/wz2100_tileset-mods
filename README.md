@@ -4,3 +4,17 @@ Tileset mods for Warzone 2100, a free and open-source RTS originally developed b
 ________
 
 ________
+
+
+This repository hosts tileset modifications.
+
+Currently, it includes tilesets created by other people and modified by me. Below are the names & authors of those mods as well as a link to the original(?) upload.
+
+Volcanic Tileset - https://addons.wz2100.net/28
+a mod by NoQ & Berg
+
+Paradise Tileset - https://addons.wz2100.net/29
+a mod by NoQ & Jorzi & Berg
+
+Glacier Tileset - https://addons.wz2100.net/30
+a mod by NoQ & Jorzi & qubodup & aubergine & cnceo
