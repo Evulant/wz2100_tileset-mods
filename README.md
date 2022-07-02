@@ -20,4 +20,6 @@ Glacier Tileset - https://addons.wz2100.net/30
 a mod by NoQ & Jorzi & qubodup & aubergine & cnceo
 
 
-# _**If you don't use the tilesets as part of a map but instead as a game mod, please note that SOME TILESET MODS CANNOT BE USED AT THE SAME TIME! The Paradise and Volcanic tilesets both overwrite the Arizona tileset and thus conflict with each other**_
+### _If you don't use the tilesets as part of a map but instead as a game mod, please note that 
+# **SOME TILESET MODS CANNOT BE USED AT THE SAME TIME!**
+### The Paradise and Volcanic tilesets both overwrite the Arizona tileset and thus conflict with each other_
